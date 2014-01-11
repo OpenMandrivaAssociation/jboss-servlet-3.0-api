@@ -1,10 +1,10 @@
-%_javapackages_macros
+%{?_javapackages_macros:%_javapackages_macros}
 %global namedreltag .Final
 %global namedversion %{version}%{?namedreltag}
 
 Name:             jboss-servlet-3.0-api
 Version:          1.0.2
-Release:          1.0%{?dist}
+Release:          1.1%{?dist}
 Summary:          Java Servlet 3.0 API
 
 License:          CDDL
