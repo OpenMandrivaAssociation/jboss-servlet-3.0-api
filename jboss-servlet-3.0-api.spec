@@ -8,7 +8,7 @@ Release:          1.1%{?dist}
 Summary:          Java Servlet 3.0 API
 
 License:          CDDL
-Url:              http://www.jboss.org
+Url:              https://www.jboss.org
 Source0:          https://github.com/jboss/jboss-servlet-api_spec/archive/jboss-servlet-api_3.0_spec-1.0.2.Final.tar.gz
 Source1:          cddl.txt
 
